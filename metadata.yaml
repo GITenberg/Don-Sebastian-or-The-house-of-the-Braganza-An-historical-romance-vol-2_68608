@@ -1,5 +1,8 @@
 _repo: Don-Sebastian-or-The-house-of-the-Braganza-An-historical-romance-vol-2_68608
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68608-h/images/cover.jpg
 creator:
   author:
     agent_name: Porter, Anna Maria
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54862
     wikipedia: https://en.wikipedia.org/wiki/Anna_Maria_Porter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68608#Don-Sebastian-or-The-house-of-the-Braganza-An-historical-romance-vol-2
 gutenberg_issued: '2022-07-28'
 identifiers:
   gutenberg: '68608'
